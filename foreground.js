@@ -43,7 +43,7 @@ const birdArray = [
     "https://freepngimg.com/thumb/flying_bird/26020-6-flying-bird-transparent-background.png",
     "http://www.pngmart.com/files/8/Kiwi-Bird-Transparent-Background.png",
     "https://i0.wp.com/freepngimages.com/wp-content/uploads/2016/10/robin-redbreast-perching.png?fit=400%2C400",
-    "https://www.freeiconspng.com/uploads/gray-bird-png-17.png",
+    "https://i.pinimg.com/originals/5c/e0/51/5ce0511a16d08a8989da14740c444591.png",
     "https://i.ibb.co/BZNxV1H/Untitled-2.png",
     "https://ya-webdesign.com/images250_/bird-clip-art-transparent-background-5.png",
     "https://i.ibb.co/gtDdJcD/Untitled-1.png"
