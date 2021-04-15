@@ -37,14 +37,14 @@ const deBird = () =>{
 }
 
 const birdArray = [
-    "https://lh3.googleusercontent.com/proxy/XIN1xsLUJMmrbW3fiqrBGUkkxtVhDemkcu0LJtkCTRXGBcDRI05U7kM02VkS0NqS4s1NQSeMp1-U4usgwvBUQkJS",
+    "https://i2.wp.com/freepngimages.com/wp-content/uploads/2015/05/greenfinch-png-images.png",
     "https://i.pinimg.com/originals/a4/19/16/a419168f0bd5b92a1d83e955ce20fa6f.png",
     "https://i2.wp.com/freepngimages.com/wp-content/uploads/2014/05/bird_1.png?fit=400%2C400",
     "https://freepngimg.com/thumb/flying_bird/26020-6-flying-bird-transparent-background.png",
-    "https://lh3.googleusercontent.com/proxy/By5UdgE-yfx-kFZJS7EoTfhxinPGj_YuiHw5HJzjOy4il0V6K117U8F1trnK2zdxcXZFMnL3c_aVC5CjAg6tb_ZoQI5BISxEQdUdkmyF4fvJlad69drT1x7QEg",
+    "http://www.pngmart.com/files/8/Kiwi-Bird-Transparent-Background.png",
     "https://i0.wp.com/freepngimages.com/wp-content/uploads/2016/10/robin-redbreast-perching.png?fit=400%2C400",
-    "https://lh3.googleusercontent.com/proxy/c-IvOgEr8CvH_hOcnk_MdRnGy3cvgccsga-m28XguKD9ljUCtEQvxPCJkCw38gCJQN_liq0ZRrE9XUO1TmXbJLvf1_dYeWAnPdClUuLyNKwq8dQBj4l2BJHh6aTlTaU",
+    "https://www.freeiconspng.com/uploads/gray-bird-png-17.png",
     "https://i.ibb.co/BZNxV1H/Untitled-2.png",
-    "https://lh3.googleusercontent.com/proxy/6XCqGEr_CF-_w_6ow22CIQqiRlIeC_p7FnlG1wlDsZn58g0geZRoTuON4swB_DRmytsHNIfjGOkvVj7_q9H2HNvevSjQ_57MMirODgaqAFnrSK2WOcrEyIvLnEjd",
+    "https://ya-webdesign.com/images250_/bird-clip-art-transparent-background-5.png",
     "https://i.ibb.co/gtDdJcD/Untitled-1.png"
 ]
