@@ -1,0 +1,19 @@
+{
+    "name": "Put a Bird On It",
+    "version": "1.0",
+    "description": "PUT A BIRD ON IT!",
+    "manifest_version": 2,
+    "icons": {
+    },
+    "background":{
+        "scripts": ["./background.js"]
+    },
+    "options_page": "./options.html",
+    "browser_action":{
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs",
+        "https://www.google.com/*"
+    ]
+}
